@@ -1,1 +1,2 @@
 # holbertonschool-smiling-school
+![Smile School Landing desktop](https://res.cloudinary.com/dvovmo7yu/image/upload/v1663880600/holbertonschool-smiling-school/Desktop/01_SMILESCHOOL_LANDING_desktop_2x_irko9d.png)
